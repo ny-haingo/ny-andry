@@ -1,16 +1,13 @@
-### Hi there 👋
+## Tech Stack
 
-<!--
-**ny-andry/ny-andry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Language & Framework
 
-Here are some ideas to get you started:
+![Language & Framework](https://skillicons.dev/icons?i=ts,js,py,react,tailwind)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=vscode,vite,nodejs,git,jest,github)
+
+### Currently learning
+
+![learing](https://skillicons.dev/icons?i=astro)
