@@ -6,7 +6,7 @@
 
 ### Tools
 
-![Tools](https://skillicons.dev/icons?i=vscode,vite,nodejs,git,jest,github)
+![Tools](https://skillicons.dev/icons?i=vite,nodejs,git,jest,mongodb)
 
 ### Currently learning
 
