@@ -1,4 +1,6 @@
-## Tech Stack
+## Hi I'm Ny Andry
+
+- Interessed in AI/ML and SWE
 
 ### Language & Framework
 
@@ -7,7 +9,3 @@
 ### Tools
 
 ![Tools](https://skillicons.dev/icons?i=vite,nodejs,git,jest,mongodb)
-
-### Currently learning
-
-![learing](https://skillicons.dev/icons?i=astro)
