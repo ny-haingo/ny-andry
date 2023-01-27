@@ -4,7 +4,7 @@
 
 ### Language & Framework
 
-![Language & Framework](https://skillicons.dev/icons?i=ts,js,py,react,tailwind)
+![Language & Framework](https://skillicons.dev/icons?i=py,ts,react,tailwind)
 
 ### Tools
 
